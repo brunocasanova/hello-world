@@ -1,1 +1,2 @@
-Hi! This is a file. With words.
+Welcome to hello-world!
+This is just a repository test.
